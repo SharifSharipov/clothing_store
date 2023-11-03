@@ -4,3 +4,4 @@
 ![Uploading Simulator Screenshot - iPhone 15 Pro Max - 2023-11-03 at 17.12.43.png…]()
 ![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-03 at 17 12 55](https://github.com/SharifSharipov/clothing_store/assets/119672350/d108968c-e880-48b7-9774-3f8184bad4fb)
 ![Simulator Screenshot - iPhone 15 Pro Max - 2023-11-03 at 17 13 00](https://github.com/SharifSharipov/clothing_store/assets/119672350/24659a37-e96f-4430-ae29-c8f9baa10c88)
+![Uploading Simulator Screenshot - iPhone 15 Pro Max - 2023-11-03 at 17.12.51.png…]()
